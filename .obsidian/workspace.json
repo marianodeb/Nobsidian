@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e597de40d5c0b71",
+            "id": "071959c709b3fbd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Bienvenido.md",
-                "mode": "preview",
-                "source": true
+                "file": "Excalidraw/Drawing 2025-03-24 19.27.54.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "9bde9044280a1b79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GuiaMarkdown.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GuiaMarkdown"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-24 19.27.54.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GuiaMarkdown.md",
+                "file": "Excalidraw/Drawing 2025-03-24 19.27.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de GuiaMarkdown"
+              "title": "Esquema de Drawing 2025-03-24 19.27.54.excalidraw"
             }
           },
           {
@@ -187,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,9 +189,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9bde9044280a1b79",
+  "active": "071959c709b3fbd2",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-03-24 13.46.04.excalidraw.md",
+    "sintaxis.md",
+    "GuiaMarkdown.md",
+    "Excalidraw/Drawing 2025-03-24 19.27.54.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
     "Excalidraw/Scripts/Downloaded/Shade Master.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
@@ -225,9 +211,7 @@
     "biblioctecaXcalidraw/types-and-values-in-javascript.excalidrawlib",
     "biblioctecaXcalidraw/technology-logos.excalidrawlib",
     "biblioctecaXcalidraw/systems-design-components.excalidrawlib",
-    "GuiaMarkdown.md",
     "Mi guia Markdowm.md",
-    "sintaxis.md",
     "Reglas de Markdown y HTML.md",
     "Sin título.md",
     "Prueba.md",

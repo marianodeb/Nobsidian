@@ -5,12 +5,12 @@ Last Modified: 04-05-2022 / 14:30:24
 
 Los t�tulos en Obsidian se escriben con un # seguido de un espacio.
 
-# T�tulo nivel 1
-## T�tulo nivel 2
-### T�tulo nivel 3
-#### T�tulo nivel 4
-##### T�tulo nivel 5
-###### T�tulo nivel 6
+# Titulo nivel 1
+## Titulo nivel 2
+### Ttulo nivel 3
+#### Titulo nivel 4
+##### Titulo nivel 5
+###### Titulo nivel 6
 
 # Ctrl + F para buscar
 
@@ -20,11 +20,11 @@ Los t�tulos en Obsidian se escriben con un # seguido de un espacio.
 ***negrita y cursiva***
 ___negrita y cursiva___
 ==resaltado==
-~~tachar texto~~ - un car�cter especial: ~~ (pulsar dos veces: Alt Gr + 4) 
+~~tachar texto~~ - un caracter especial: ~~ (pulsar dos veces: Alt Gr + 4) 
 
 Markdown no permite el subrayado para no confundirlo con los enlaces, aunque con HTML se puede conseguir.
 
-Markdown tampoco permite tener m�s de dos l�neas en blanco. Si esto pasa, se ver�n en previsualizaci�n como una, como un simple espacio.
+Markdown tampoco permite tener mas de dos lineas en blanco. Si esto pasa, se veran en previsualizacion como una, como un simple espacio.
 
 # Divisores y presentaciones
 Los divisores se crean con tres guiones seguidos. Podr�amos crear presentaciones siempre y cuando cada diapositiva est� delimitada por 2 divisores.
@@ -118,7 +118,7 @@ Pero si la imagen estuviera fuera del alcance de nuestra b�veda, es decir, si 
 ![Engelbart|100](https://www.foodspring.es/magazine/wp-content/uploads/2020/11/essen_foodspring-2.jpg)
 
 
-# Bloques c�digo
+# Bloques codigo
 Para crear bloques de c�digo, tenemos que usar la comilla a la derecha de la P en el teclado espa�ol dos veces. As� podemos incluir alg�n c�digo de lenguajes de programaci�n.
 
 ```js
